@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "132958929461",
+    "project_id": "imwell-3cc66",
+    "storage_bucket": "imwell-3cc66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132958929461:android:07ce71747bb23d908ee77c",
+        "android_client_info": {
+          "package_name": "com.example.imwell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132958929461-4dm96tj4fe8u78n2otbd07g4anhldllq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMpzm9S7S4Gf9H1CWSUgJEk90QtwnS60Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132958929461-4dm96tj4fe8u78n2otbd07g4anhldllq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132958929461-tg2h1mkqe3820l1c307ammhjsi577v0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imwell"
+              }
+            }
+          ]
+        }
+      }
+    }
+    
+  ],
+  "configuration_version": "1"
+}
